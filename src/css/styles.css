@@ -1,0 +1,40 @@
+.nav-href:hover {
+  color: #2196f3;
+}
+.nav-href {
+  color: #212121;
+  text-decoration: none;
+}
+.nav-tel {
+  color: #757575;
+}
+.main-h1 {
+  color: #2c2828;
+}
+.main-button {
+  color: #ffffff;
+}
+.main-h4 {
+  color: #212121;
+}
+.main-text {
+  color: #757575;
+}
+.main-img {
+  color: #212121;
+}
+.main-team {
+  color: #212121;
+}
+.main-hero {
+  color: #212121;
+}
+.footer-address {
+  color: #ffffff;
+}
+.footer-mailto {
+  color: #ffffff;
+}
+.footer-tel {
+  color: #ffffff;
+}

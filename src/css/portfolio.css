@@ -1,0 +1,36 @@
+.nav-href:hover {
+  color: #2196f3;
+}
+.nav-href {
+  color: #212121;
+  text-decoration: none;
+}
+.nav-mailto {
+  color: #2196f3;
+  text-decoration: none;
+}
+.nav-tel {
+  color: #757575;
+  text-decoration: none;
+}
+.selection-text:first-child {
+  color: #2196f3;
+}
+.selection-text {
+  color: #212121;
+}
+.main-title {
+  color: #212121;
+}
+.title-text {
+  color: #757575;
+}
+.footer-address {
+  color: #ffffff;
+}
+.footer-mailto {
+  color: #ffffff;
+}
+.footer-tel {
+  color: #ffffff;
+}
