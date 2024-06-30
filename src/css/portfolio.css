@@ -1,36 +1,71 @@
+.root {
+  --font-family: "Roboto", sans-serif;
+  --second-family: "Raleway", sans-serif;
+}
+/* =====================Header================ */
+.nav-list {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
+}
 .nav-href:hover {
   color: #2196f3;
 }
 .nav-href {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
   color: #212121;
-  text-decoration: none;
 }
 .nav-mailto {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
   color: #2196f3;
-  text-decoration: none;
 }
 .nav-tel {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
   color: #757575;
-  text-decoration: none;
-}
-.selection-text:first-child {
-  color: #2196f3;
 }
 .selection-text {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
   color: #212121;
 }
+/* =====================Main================ */
 .main-title {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 18px;
   color: #212121;
 }
 .title-text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
   color: #757575;
 }
+
+/* =====================Footer================ */
 .footer-address {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
   color: #ffffff;
 }
 .footer-mailto {
-  color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
 }
 .footer-tel {
-  color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
 }

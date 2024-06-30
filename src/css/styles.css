@@ -1,3 +1,13 @@
+.root {
+  --font-family: "Roboto", sans-serif;
+  --second-family: "Raleway", sans-serif;
+}
+/* ==============Header============= */
+.nav-list {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 14px;
+}
 .nav-href:hover {
   color: #2196f3;
 }
@@ -8,33 +18,78 @@
 .nav-tel {
   color: #757575;
 }
-.main-h1 {
-  color: #2c2828;
+/* ====================Main============ */
+.main-title {
+  font-family: var(--font-family);
+  font-weight: 900;
+  font-size: 44px;
+  text-align: center;
+  color: #fff;
 }
 .main-button {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
   color: #ffffff;
 }
-.main-h4 {
+.main-titles {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 14px;
   color: #212121;
 }
 .main-text {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
   color: #757575;
 }
-.main-img {
+.work-title {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
   color: #212121;
 }
 .main-team {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
   color: #212121;
 }
 .main-hero {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
   color: #212121;
 }
+.main-department {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  color: #757575;
+}
+/* ===================Footer============== */
+
 .footer-address {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
   color: #ffffff;
 }
 .footer-mailto {
-  color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
 }
 .footer-tel {
-  color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
 }
